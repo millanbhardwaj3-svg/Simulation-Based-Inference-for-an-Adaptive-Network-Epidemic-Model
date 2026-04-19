@@ -26,5 +26,8 @@ The required datasets are included in this repository.
 ## Usage
 Run the main notebook or scripts to reproduce figures and results.
 
+## Acknowledgements
+LLM assistant's (ChatGPT + Claude) were used to support code development. All results, analysis, and interpretations are my own.
+
 ## Author
 Millan Bhardwaj
