@@ -8,6 +8,18 @@ This repository contains code to reproduce the results from the report.
 - SMC-ABC implementation
 - Plot generation scripts
 
+## Code Structure
+
+- `main_analysis.py`  
+  Contains the core implementation of the ABC methods (rejection ABC, regression adjustment, and SMC-ABC) used to generate the main results in the report.
+
+- `additional_analysis.py`  
+  Contains additional analyses including:
+  - robustness checks (different seeds and distance metrics)
+  - coefficient scatter plots
+  - posterior predictive checks
+  - synthetic truth recovery experiments
+
 ## Data
 The required datasets are included in this repository.
 
